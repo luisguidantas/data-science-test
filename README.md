@@ -1,4 +1,4 @@
-# Solucao proposta para o Data Science Challenge Raizen
+# Solução proposta para o Data Science Challenge Raizen
 
 # Script R
 # Autor: Luis Guilherme de Oliveira Dantas
