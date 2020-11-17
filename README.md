@@ -1,4 +1,4 @@
-# Data Science Challenge Raizen
+# Data Science Challenge
 
 # Script R
 # Autor: Luis Guilherme de Oliveira Dantas
